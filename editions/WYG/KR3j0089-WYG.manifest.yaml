@@ -1,0 +1,44 @@
+canonical_identifier: bkk:krp/KR3j0089/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3j0089/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 王氏談錄
+  date: '2015-08-24 23:22:45.823458'
+  source:
+    repository: kanripo
+    path: KR3j0089
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3j0089_000-WYG.yaml, hash: 'sha256:d19df439002956cc486e3f708415e253f6769d3034ad44102fd1d01b60067634'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3j0089_000-WYG.markers.yaml, hash: 'sha256:709e7a6cc5a40d7f565c94d1dd48ae5fa890b42ad9b6e50cba749bc7f2a66ee8'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3j0089_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 318
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3j0089_WYG_000-3a
+    span:
+    - body
+    - 318
+    - 8460
+  label: 王氏談録
+  type: section
+  level: 1
+hash: sha256:9ff2abe6342d42feb8b319359af2d3455ff42760e067f750dfb68557e0f32d5f
