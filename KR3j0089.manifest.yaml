@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3j0089/v1
 canonical_location: https://kanripo.org/bkk/KR3j0089/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 王氏談錄
   date: '2015-08-24 23:22:45.823458'
@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR3j0089_000.yaml, hash: 'sha256:867d5abab2d17e9b3d3d71b9eb0fd95ed02f01347e1f12d0df64b77fcc703492'}
+  - {seq: 0, filename: KR3j0089_000.yaml, hash: 'sha256:e6ad98a14e4810ffe8c25edbc3a98a4fed84ca3746121d5dda0987715eedad22'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3j0089_000.markers.yaml, hash: 'sha256:978ed726e09591dfdf16c891852786882d37babdb38e68141ed0e5c380472c5e'}
+  - {seq: 0, role: markers, filename: assets/KR3j0089_000.markers.yaml, hash: 'sha256:be165652b7496d0695ae3488faf49d57f236766c07a5578db874b4dcde6917c9'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,4 +44,7 @@ table_of_contents:
   label: 王氏談録
   type: section
   level: 1
-hash: sha256:3b15bedda2101bac682aa858024cb86d3ba416373ba16f5edd01b0cdac9c8847
+hash: sha256:674bce53bec6831e97b351341c337b8064cdbe227f4bdd0c15fd8c3078ace56b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
