@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3j0089_000-WYG.yaml, hash: 'sha256:d19df439002956cc486e3f708415e253f6769d3034ad44102fd1d01b60067634'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3j0089_000-WYG.markers.yaml, hash: 'sha256:709e7a6cc5a40d7f565c94d1dd48ae5fa890b42ad9b6e50cba749bc7f2a66ee8'}
+  - {seq: 0, role: markers, filename: assets/KR3j0089_000-WYG.markers.yaml, hash: 'sha256:4ea4a7a1a6437cd9aa0ce41f4d4848bc7684f607a4566f763f4d19e61505792d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,4 +41,4 @@ table_of_contents:
   label: 王氏談録
   type: section
   level: 1
-hash: sha256:9ff2abe6342d42feb8b319359af2d3455ff42760e067f750dfb68557e0f32d5f
+hash: sha256:2fee5b082cd9c315ad46df9d0852090cd4e1e4420191925e4902394c60de5e7b
